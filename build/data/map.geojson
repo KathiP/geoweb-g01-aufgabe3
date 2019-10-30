@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#33ea13",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "name": "Maxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.358470916748047,
+          48.19000900144933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff80ff",
+        "marker-size": "medium",
+        "marker-symbol": "rocket",
+        "name": "Pete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.40911102294922,
+          48.229018250144556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#808000",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.39263153076172,
+          48.21849668769751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "square",
+        "name": "Maxi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.393404006958008,
+          48.23010459263706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.39760971069336,
+          48.22455828667249
+        ]
+      }
+    }
+  ]
+}
